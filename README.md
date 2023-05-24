@@ -1,7 +1,7 @@
-<h1>ALgorithm for password creation</h1>
+<h1>Algorithm for password creation</h1>
 <h2>
     <p>Name:Oludamiro Praise Isaac </p>
-    <p>Matric No:EU2201002-3105 </p>
+    <p>Matric No:EU220102-3105 </p>
     <p>Course: Computer Science</p>
 </h2>
 <p>1.create an input function to get username from user</p>
